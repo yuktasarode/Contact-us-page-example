@@ -1,4 +1,4 @@
-# yuktasarode.sarode-gmail.com
+# contact us page
 contact us page 
 
 you hve to make changes in two places to check it in routes.py only
